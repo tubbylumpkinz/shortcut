@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Static site: every page is crawlable, nothing to disallow.
